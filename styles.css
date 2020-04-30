@@ -1,7 +1,7 @@
 @media (min-width: 576px) {
   .jump {
     padding: 60px;
-    background-image: url(../../assets/img/655.png);
+    background-image: url(655.png);
     background-size: cover;
     padding-right: 50%;
   }
@@ -11,7 +11,7 @@
 @media only screen and (max-device-width:300px){
     .jump {
     padding: 60px;
-    background-image: url(../../assets/img/655.png);
+    background-image: url(655.png);
     background-size: cover;
     padding-right: 50%;
   }
